@@ -7,7 +7,7 @@ Deno Deploy URL https://dash.deno.com/projects/katzemeo
 katzemeo.deno.dev
 
 ## Git Integration
-katzemeo/deploy@main/mod.ts
+katzemeo/deploy@master/mod.ts
 
 ## Run from terminal
 ### http://localhost:8000/

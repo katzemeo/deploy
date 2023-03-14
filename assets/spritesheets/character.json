@@ -1,0 +1,87 @@
+{"frames": {
+
+"walk_01.png":
+{
+	"frame": {"x":180,"y":1,"w":249,"h":514},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":218,"y":83,"w":249,"h":514},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.52,"y":0.890769}
+},
+"walk_02.png":
+{
+	"frame": {"x":389,"y":517,"w":235,"h":497},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":211,"y":89,"w":235,"h":497},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.484615,"y":0.895385}
+},
+"walk_03.png":
+{
+	"frame": {"x":626,"y":512,"w":170,"h":508},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":84,"w":170,"h":508},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.484615,"y":0.890769}
+},
+"walk_04.png":
+{
+	"frame": {"x":612,"y":1,"w":159,"h":509},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":246,"y":80,"w":159,"h":509},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.506154,"y":0.886154}
+},
+"walk_05.png":
+{
+	"frame": {"x":1,"y":519,"w":180,"h":504},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":239,"y":87,"w":180,"h":504},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.524615,"y":0.890769}
+},
+"walk_06.png":
+{
+	"frame": {"x":183,"y":517,"w":204,"h":506},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":230,"y":89,"w":204,"h":506},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.475385,"y":0.883077}
+},
+"walk_07.png":
+{
+	"frame": {"x":431,"y":1,"w":179,"h":511},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":238,"y":83,"w":179,"h":511},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.475385,"y":0.909231}
+},
+"walk_08.png":
+{
+	"frame": {"x":1,"y":1,"w":177,"h":516},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":228,"y":82,"w":177,"h":516},
+	"sourceSize": {"w":650,"h":650},
+	"anchor": {"x":0.484615,"y":0.904615}
+}},
+"animations": {
+	"walk": ["walk_01.png","walk_02.png","walk_03.png","walk_04.png","walk_05.png","walk_06.png","walk_07.png","walk_08.png"]
+},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "character.png",
+	"format": "RGBA8888",
+	"size": {"w":797,"h":1024},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:31a6dadd2881f00a27ce6fe0015bbcc2:936e32f194be8e307f55593a08c5874a:42e475aa4a03af306bdc7acb5ff91d19$"
+}
+}
